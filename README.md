@@ -39,7 +39,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Languages and Tools  
-<table><tr><td valign="top" width="35%">
+<table><tr><td valign="top" width="33%">
 
 
 
@@ -53,7 +53,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="35%">
+</td><td valign="top" width="33%">
 
 
 
@@ -66,7 +66,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
 
-</td><td valign="top" width=35%">
+</td><td valign="top" width=40%">
 
 
 
