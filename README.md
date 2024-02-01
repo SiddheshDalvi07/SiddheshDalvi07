@@ -131,7 +131,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=siddheshdalvi07&theme=radical&no-frame=true&no-bg=true&margin-w=4)
@@ -148,4 +148,3 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ---
 [![](https://visitcount.itsvg.in/api?id=siddheshdalvi07&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
