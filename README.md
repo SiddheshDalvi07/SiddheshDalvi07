@@ -39,7 +39,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Languages and Tools  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="53%">
 
 
 
