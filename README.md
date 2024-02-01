@@ -84,7 +84,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="70%">
 
 🔭 I’m currently working on [Read me](https://github.com/SiddheshDalvi07/SiddheshDalvi07)  
   
