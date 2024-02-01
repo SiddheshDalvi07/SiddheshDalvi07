@@ -93,7 +93,7 @@
         <li>:zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.</li>
       </ul>
       <p>
-        :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-siddheshdalvi22-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/siddheshdalvi22/)
+        :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-siddheshdalvi22-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/siddheshdalvi22/])
       </p>
     </div>
   </body>
