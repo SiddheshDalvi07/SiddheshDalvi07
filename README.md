@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>[Your Name]</title>
+    <title>[Siddhesh Dalvi]</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <style>
@@ -52,17 +52,30 @@
         margin: 1rem auto;
         display: block;
       }
+      .skills {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        margin: 1rem 0;
+      }
+      .skill {
+        margin: 0.5rem;
+      }
     </style>
   </head>
   <body>
     <div class="container">
-      <h1>[Your Name]</h1>
-      <img src="https://komarev.com/ghpvc/?username=[your-github-username]&style=flat-square&color=blue" alt="Profile Views" />
+      <h1>[Siddhesh Dalvi]</h1>
+      <img src="https://komarev.com/ghpvc/?username=[siddheshdalvi22]&style=flat-square&color=blue" alt="Profile Views" />
       <div class="badges">
         <!-- Add your badges here -->
       </div>
       <div class="social-links">
         <!-- Add your social links here -->
+      </div>
+      <div class="skills">
+        <!-- Add your skills here -->
       </div>
       <div class="giphy">
         <img
@@ -72,7 +85,7 @@
       </div>
       <h2>:woman_technologist: About Me :</h2>
       <p>
-        I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from [Your Location].
+        I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
       </p>
       <ul>
         <li>:telescope: I'm working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
@@ -80,7 +93,7 @@
         <li>:zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.</li>
       </ul>
       <p>
-        :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-[Your Name]-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+        :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-siddheshdalvi22-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/siddheshdalvi22/)
       </p>
     </div>
   </body>
