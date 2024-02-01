@@ -39,8 +39,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Languages and Tools  
-
 <table><tr><td valign="top" width="33%">
+
 
 
 ### Frontend  
@@ -78,7 +78,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
 
-</td></tr></table>
+</td></tr></table>  
 
 <br/>  
 
@@ -129,6 +129,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 <br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 ----
 
